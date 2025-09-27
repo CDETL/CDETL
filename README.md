@@ -5,8 +5,8 @@
 
 I am a Systems Engineer specialized in Business Intelligence and Business Analytics. I am passionate about transforming data into valuable insights that drive strategic decision-making. I have experience working with Power BI, Power Query, SQL Server, Python, and R, developing dashboards, data models, and predictive analytics solutions. 
 <br> <br>
-📘 Currently I am learning more about Microsoft Fabric and strengthening my programming skills in Python and R. In addition, I am beginning my training as a Scrum Master, which will allow me to integrate agile methodologies into data project management.
-🤝 I am interested in collaborating on projects where I can contribute in data visualization, modeling, and advanced analytics.
+📘 Currently I am learning more about Microsoft Fabric and strengthening my programming skills in Python and R. In addition, I am beginning my training as a Scrum Master, which will allow me to integrate agile methodologies into data project management.<br>
+🤝 I am interested in collaborating on projects where I can contribute in data visualization, modeling, and advanced analytics.<br>
 💡 If you have any questions about business intelligence, data analysis, or reporting, I will be happy to help.
 <br><br>
 Outside of work, I enjoy 🎶 listening to music, 🏃 running, 🪢 jumping rope, 🍿 going to the movies, and learning about new trends in the data world. I am also a fan of Patrick Rothfuss’ books, which inspire me to keep exploring new stories and ideas.
